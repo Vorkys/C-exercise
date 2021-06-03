@@ -1,0 +1,10 @@
+C:\Users\erik\Source\Repos\removing char\removing char\bin\Debug\removing char.exe.config
+C:\Users\erik\Source\Repos\removing char\removing char\bin\Debug\removing char.exe
+C:\Users\erik\Source\Repos\removing char\removing char\bin\Debug\removing char.pdb
+C:\Users\erik\Source\Repos\removing char\removing char\obj\Debug\removing char.csprojAssemblyReference.cache
+C:\Users\erik\Source\Repos\removing char\removing char\obj\Debug\removing_char.Form1.resources
+C:\Users\erik\Source\Repos\removing char\removing char\obj\Debug\removing_char.Properties.Resources.resources
+C:\Users\erik\Source\Repos\removing char\removing char\obj\Debug\removing char.csproj.GenerateResource.cache
+C:\Users\erik\Source\Repos\removing char\removing char\obj\Debug\removing char.csproj.CoreCompileInputs.cache
+C:\Users\erik\Source\Repos\removing char\removing char\obj\Debug\removing char.exe
+C:\Users\erik\Source\Repos\removing char\removing char\obj\Debug\removing char.pdb
